@@ -22,6 +22,6 @@ This is a responsive portfolio website built with HTML and CSS to showcase a web
 
 ## 📸 Preview
 
-![Portfolio Screenshot](./preview.png)
+Click [here](https://emma-obelenge.github.io/plp_webdev_group433_project/) to view the live site.
 
 ## 📂 File Structure
